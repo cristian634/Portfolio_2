@@ -48,7 +48,7 @@ body{
     padding: 10px;
     border: 1px solid black;
     margin-top: 5%;
-    height: 375px;
+    height: auto;
 
 }
 /* profile pic settings */
